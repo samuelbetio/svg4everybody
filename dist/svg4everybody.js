@@ -104,3 +104,4 @@
     }
     return svg4everybody;
 });
+
