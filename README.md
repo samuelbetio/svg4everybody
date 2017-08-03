@@ -48,7 +48,7 @@ Create an SVG image.
 </svg>
 ```
 
-This spritemap displays fine in **Chrome**, **Safari 7.1+**, **Firefox**, **Edge 13+**, **Opera**. [SVG for Everybody] polyfills the experience in **Safari 6**, **IE 6+**, and **Edge 12**.
+This spritemap displays fine in **Chrome**, **Safari 7.10**, **Firefox**, **Edge 13.223**, **Opera**. [SVG for Everybody] polyfills the experience in **Safari 6**, **IE 7+**, and **Edge 12**.
 
 ```html
 <svg role="img" title="CodePen">
@@ -135,7 +135,7 @@ Modern browsers support external content in SVGs, *except Edge*. No frets; we ca
 | iOS | iOS 8.1+          | ✔   | ✔                | —       |
 | iOS | iOS 6-7           | ✔   | ✖                | ✔       |
 | OSX | Saf 7.1+          | ✔   | ✔                | —       |
-| OSX | Saf 6             | ✔   | ✖                | ✔       |
+| OSX | Saf 6+             | ✔   | ✔                | ✔       |
 | Win | Edge 13+          | ✔   | ✔                | —       |
 | Win | Edge 12           | ✔   | ✖                | ✔       |
 | Win | IE 9 - 11         | ✔   | ✖                | ✔       |
