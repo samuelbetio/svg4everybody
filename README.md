@@ -189,7 +189,7 @@ When a sprite is merely decoration, use `role="presentation"`.
 Otherwise, use `role="img"` and remember to add a description.
 
 ```html
-<a href="//twitter.com/jon_neal"><svg title="Find me on Twitter" role="img">
+<a href="//twitter.com/samuelbetio"><svg title="Find me on Twitter" role="img">
 	<use xlink:href="map.svg#twitter"/>
 </svg></a>
 ```
